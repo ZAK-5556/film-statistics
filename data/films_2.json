@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Dune",
+    "director": "Denis Villeneuve",
+    "year": 2021,
+    "country": "USA",
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Spirited Away",
+    "director": "Hayao Miyazaki",
+    "year": 2001,
+    "country": "Japan",
+    "genres": "Animation, Fantasy"
+  },
+  {
+    "title": "Memories of Murder",
+    "director": "Bong Joon-ho",
+    "year": 2003,
+    "country": "South Korea",
+    "genres": "Crime, Thriller, Drama"
+  }
+]

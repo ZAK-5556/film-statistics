@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "country": "USA",
+    "genres": "Sci-Fi, Thriller, Action"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "year": 2014,
+    "country": "USA",
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "year": 2019,
+    "country": "South Korea",
+    "genres": "Thriller, Drama, Comedy"
+  }
+]
